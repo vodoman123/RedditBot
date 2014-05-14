@@ -1,0 +1,1 @@
+A simple bot I made while learning how to program reddit bots. Just goes thorughthe comments to see when somebody comments "I-L-L" and it comments "I-N-I". (Just something that people at my school do)
